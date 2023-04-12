@@ -1,5 +1,8 @@
 # fairy-gulp-assembly
 
-Gulp build for your web projects
+## Gulp build for your web projects
 
-run: git clone https://github.com/fairyplace/fairy-gulp-assembly
+run to download to your project folder:
+```bash
+git clone https://github.com/fairyplace/fairy-gulp-assembly
+```
